@@ -6,6 +6,7 @@
     <Copyright>Hayk Manucharyan</Copyright>
     <Description>ADO.NET access library</Description>
     <Company>Hayk Manucharyan</Company>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
